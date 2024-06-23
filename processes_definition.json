@@ -1,0 +1,29 @@
+{
+    "processes": [
+        {
+            "name": "P1",
+            "duration": 53,
+            "arrival_time": 0,
+            "priority": 4
+        },
+        {
+            "name": "P2",
+            "duration": 17,
+            "arrival_time": 0,
+            "priority": 5
+        },
+        {
+            "name": "P3",
+            "duration": 68,
+            "arrival_time": 0,
+            "priority": 2
+        },
+        {
+            "name": "P4",
+            "duration": 24,
+            "arrival_time": 0,
+            "priority": 1
+        }
+    ]
+}
+

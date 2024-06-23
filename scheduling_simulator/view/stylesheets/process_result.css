@@ -1,0 +1,14 @@
+QLabel {
+    font-size: 16px;
+}
+
+#title_label {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#final_line {
+    border-bottom: 1px solid black;
+}
+                           
+                           
