@@ -38,6 +38,12 @@ Para executar o programa, execute o seguinte comando no terminal:
 ```bash
 python main.py
 ```
+> [!IMPORTANT]
+> Caso o programa não execute, será necessário rodar os seguintes comandos:
+> ```bash
+> sudo apt-get update
+> sudo apt-get install libxcb-xinerama0 libxcb-cursor0
+> ```
 
 ## Uso
 
